@@ -5,4 +5,4 @@ This code is a verification tool for the [Cuddly Duddly Fuddly Wuddly Riddle](ht
 The question boils down to a parity operation on the number of eggs: Each egg fusion will reduce the number of eggs by 1 for two piles and increase it by 1 for the other. This switched the parity (odd or even) of the numbers, which all start as odd. Since the final state we want it (blue, purple, red) = (1,0,0) = (odd,even,even), the final egg added to the incubator should be the blue one.
 
 # How To Use
-idk yet lemme check
+I run this in jupyter notebook using the WuddlyMachine function.
